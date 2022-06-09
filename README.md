@@ -1,6 +1,6 @@
 # flutter_pdf
 
-A new Flutter project.
+A simple PDF viewer and downloander APP made wit Flutter.
 
 ## Getting Started
 
